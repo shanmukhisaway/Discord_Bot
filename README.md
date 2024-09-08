@@ -1,4 +1,4 @@
-A cool customizable discord bot for having fun with friends in discord server. 
+A cool customizable & functional discord bot for having fun with friends in discord server. 
 
 Get **The required** module using pip. 
 
