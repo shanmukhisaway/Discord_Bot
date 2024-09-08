@@ -1,4 +1,6 @@
-A cool discord bot. Get **The required** module using pip. 
+A cool customizable discord bot for having fun with friends in discord server. 
+
+Get **The required** module using pip. 
 
 In **YOUR_BOT_TOKEN**, enter the token of your own bot cuz U ain't getting mine ;) 
 
